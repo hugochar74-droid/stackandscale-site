@@ -166,3 +166,11 @@ main { padding-top: 40px; padding-bottom: 80px; min-height: 60vh; }
 }
 
 /* Stack&Scale — feuille de style du site public */
+
+/* Tableaux dans les articles */
+.prose table { width: 100%; border-collapse: collapse; margin: 1.8em 0; font-family: var(--sans); font-size: .9rem; line-height: 1.45; display: block; overflow-x: auto; }
+.prose thead th { text-align: left; font-weight: 700; font-size: .75rem; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); border-bottom: 2px solid var(--ink); padding: 10px 14px 8px; vertical-align: bottom; }
+.prose td { border-bottom: 1px solid var(--line); padding: 12px 14px; vertical-align: top; min-width: 120px; }
+.prose tbody td:first-child { font-weight: 600; }
+.prose tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--line) 35%, transparent); }
+@media (min-width: 760px) { .prose table { display: table; } }

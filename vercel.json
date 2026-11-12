@@ -13,17 +13,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
-      "destination": "/",
-      "permanent": false
-    },
-    {
       "source": "/articles/existe-t-il-incubateurs-sans-frais-entree",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-accelerateur-startup-studio-difference",
+      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
       "destination": "/",
       "permanent": false
     },
@@ -33,12 +28,17 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
+      "source": "/articles/incubateur-accelerateur-startup-studio-difference",
       "destination": "/",
       "permanent": false
     },
     {
       "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
       "destination": "/",
       "permanent": false
     },
@@ -53,22 +53,22 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
-      "destination": "/",
-      "permanent": false
-    },
-    {
       "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
       "destination": "/",
       "permanent": false
     },
     {
       "source": "/articles/incubateur-public-ecole-prive-lequel-choisir",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
       "destination": "/",
       "permanent": false
     },
@@ -93,18 +93,13 @@
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat/",
-      "destination": "/categorie/entrepreneuriat",
-      "permanent": true
-    },
-    {
       "source": "/categories/entrepreneuriat",
       "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
     {
-      "source": "/categories/saas",
-      "destination": "/",
+      "source": "/categories/entrepreneuriat/",
+      "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
     {
@@ -113,7 +108,7 @@
       "permanent": true
     },
     {
-      "source": "/categories/outils",
+      "source": "/categories/saas",
       "destination": "/",
       "permanent": true
     },
@@ -123,12 +118,17 @@
       "permanent": true
     },
     {
-      "source": "/categories/automatisation/",
+      "source": "/categories/outils",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/categories/automatisation",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/automatisation/",
       "destination": "/",
       "permanent": true
     },
@@ -153,12 +153,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet/",
+      "source": "/auteurs/heloise-monet",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet",
+      "source": "/auteurs/heloise-monet/",
       "destination": "/",
       "permanent": true
     },
@@ -173,17 +173,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/manon-dunand",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/manon-dunand/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/remi-riggaz/",
+      "source": "/auteurs/manon-dunand",
       "destination": "/",
       "permanent": true
     },
@@ -193,7 +188,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui/",
+      "source": "/auteurs/remi-riggaz/",
       "destination": "/",
       "permanent": true
     },
@@ -203,7 +198,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/theo-lulin/",
+      "source": "/auteurs/solan-alaoui/",
       "destination": "/",
       "permanent": true
     },
@@ -213,7 +208,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee",
+      "source": "/auteurs/theo-lulin/",
       "destination": "/",
       "permanent": true
     },
@@ -223,12 +218,17 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/yanis-bouram/",
+      "source": "/auteurs/yan-thesee",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/yanis-bouram",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/yanis-bouram/",
       "destination": "/",
       "permanent": true
     },
