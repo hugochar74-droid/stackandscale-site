@@ -174,3 +174,9 @@ main { padding-top: 40px; padding-bottom: 80px; min-height: 60vh; }
 .prose tbody td:first-child { font-weight: 600; }
 .prose tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--line) 35%, transparent); }
 @media (min-width: 760px) { .prose table { display: table; } }
+
+/* Auteurs */
+.post-head .meta a { text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
+.post-head .meta a:hover { text-decoration-color: var(--accent); }
+.author-bio { font-family: var(--text); font-size: 1.1rem; max-width: 620px; margin: 12px auto 0; color: var(--ink); }
+.author-link { color: var(--accent); font-weight: 600; font-size: .9rem; }

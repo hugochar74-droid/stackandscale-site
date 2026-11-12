@@ -13,12 +13,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree",
+      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
+      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree",
       "destination": "/",
       "permanent": false
     },
@@ -33,12 +33,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
       "destination": "/",
       "permanent": false
     },
@@ -93,12 +93,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat",
+      "source": "/categories/entrepreneuriat/",
       "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat/",
+      "source": "/categories/entrepreneuriat",
       "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
@@ -123,12 +123,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/automatisation/",
+      "source": "/categories/automatisation",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/automatisation",
+      "source": "/categories/automatisation/",
       "destination": "/",
       "permanent": true
     },
@@ -143,12 +143,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/",
+      "source": "/auteurs",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs",
+      "source": "/auteurs/",
       "destination": "/",
       "permanent": true
     },
@@ -163,17 +163,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/julia-bosio",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/julia-bosio/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/manon-dunand",
+      "source": "/auteurs/julia-bosio",
       "destination": "/",
       "permanent": true
     },
@@ -183,7 +178,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/remi-riggaz/",
+      "source": "/auteurs/manon-dunand",
       "destination": "/",
       "permanent": true
     },
@@ -193,7 +188,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui/",
+      "source": "/auteurs/remi-riggaz/",
       "destination": "/",
       "permanent": true
     },
@@ -203,12 +198,17 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/theo-lulin/",
+      "source": "/auteurs/solan-alaoui/",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/theo-lulin",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/theo-lulin/",
       "destination": "/",
       "permanent": true
     },
@@ -233,22 +233,22 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-index.xml/",
-      "destination": "/sitemap.xml",
-      "permanent": true
-    },
-    {
       "source": "/sitemap-index.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml/",
+      "source": "/sitemap-index.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
       "source": "/sitemap-0.xml",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap-0.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     }
