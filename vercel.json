@@ -3,12 +3,12 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/articles/combien-coute-incubateur-france/",
+      "source": "/articles/combien-coute-incubateur-france",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/combien-coute-incubateur-france",
+      "source": "/articles/combien-coute-incubateur-france/",
       "destination": "/",
       "permanent": false
     },
@@ -23,17 +23,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
-      "destination": "/",
-      "permanent": false
-    },
-    {
       "source": "/articles/incubateur-accelerateur-startup-studio-difference",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
+      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
       "destination": "/",
       "permanent": false
     },
@@ -43,7 +38,7 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-choisir-quand-fondateur-technique/",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/",
       "permanent": false
     },
@@ -53,7 +48,7 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
+      "source": "/articles/incubateur-choisir-quand-fondateur-technique/",
       "destination": "/",
       "permanent": false
     },
@@ -63,12 +58,17 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir",
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
       "destination": "/",
       "permanent": false
     },
     {
       "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir",
       "destination": "/",
       "permanent": false
     },
@@ -113,17 +113,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/outils/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/categories/outils",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/automatisation",
+      "source": "/categories/outils/",
       "destination": "/",
       "permanent": true
     },
@@ -133,12 +128,17 @@
       "permanent": true
     },
     {
-      "source": "/rss.xml",
-      "destination": "/feed.xml",
+      "source": "/categories/automatisation",
+      "destination": "/",
       "permanent": true
     },
     {
       "source": "/rss.xml/",
+      "destination": "/feed.xml",
+      "permanent": true
+    },
+    {
+      "source": "/rss.xml",
       "destination": "/feed.xml",
       "permanent": true
     },
@@ -153,12 +153,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet",
+      "source": "/auteurs/heloise-monet/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet/",
+      "source": "/auteurs/heloise-monet",
       "destination": "/",
       "permanent": true
     },
@@ -173,17 +173,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/manon-dunand/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/manon-dunand",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/remi-riggaz",
+      "source": "/auteurs/manon-dunand/",
       "destination": "/",
       "permanent": true
     },
@@ -193,7 +188,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui",
+      "source": "/auteurs/remi-riggaz",
       "destination": "/",
       "permanent": true
     },
@@ -203,7 +198,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/theo-lulin",
+      "source": "/auteurs/solan-alaoui",
       "destination": "/",
       "permanent": true
     },
@@ -213,12 +208,17 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee/",
+      "source": "/auteurs/theo-lulin",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/yan-thesee",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/yan-thesee/",
       "destination": "/",
       "permanent": true
     },
