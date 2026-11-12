@@ -13,12 +13,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
+      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree",
+      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
       "destination": "/",
       "permanent": false
     },
@@ -33,12 +33,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
       "destination": "/",
       "permanent": false
     },
@@ -53,12 +53,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
       "destination": "/",
       "permanent": false
     },
@@ -83,12 +83,12 @@
       "permanent": false
     },
     {
-      "source": "/categories/incubateurs",
+      "source": "/categories/incubateurs/",
       "destination": "/categorie/incubateurs",
       "permanent": true
     },
     {
-      "source": "/categories/incubateurs/",
+      "source": "/categories/incubateurs",
       "destination": "/categorie/incubateurs",
       "permanent": true
     },
@@ -103,12 +103,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/saas",
+      "source": "/categories/saas/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/saas/",
+      "source": "/categories/saas",
       "destination": "/",
       "permanent": true
     },
@@ -123,22 +123,22 @@
       "permanent": true
     },
     {
-      "source": "/categories/automatisation/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/categories/automatisation",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/rss.xml",
-      "destination": "/feed.xml",
+      "source": "/categories/automatisation/",
+      "destination": "/",
       "permanent": true
     },
     {
       "source": "/rss.xml/",
+      "destination": "/feed.xml",
+      "permanent": true
+    },
+    {
+      "source": "/rss.xml",
       "destination": "/feed.xml",
       "permanent": true
     },
@@ -153,12 +153,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet/",
+      "source": "/auteurs/heloise-monet",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet",
+      "source": "/auteurs/heloise-monet/",
       "destination": "/",
       "permanent": true
     },
@@ -193,12 +193,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui/",
+      "source": "/auteurs/solan-alaoui",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui",
+      "source": "/auteurs/solan-alaoui/",
       "destination": "/",
       "permanent": true
     },
@@ -243,12 +243,12 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml",
+      "source": "/sitemap-0.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml/",
+      "source": "/sitemap-0.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     }
