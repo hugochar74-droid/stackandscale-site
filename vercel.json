@@ -33,12 +33,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/",
       "permanent": false
     },
@@ -53,17 +53,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
-      "destination": "/",
-      "permanent": false
-    },
-    {
       "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
       "destination": "/",
       "permanent": false
     },
@@ -73,12 +68,17 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
+      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
       "destination": "/",
       "permanent": false
     },
     {
       "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
       "destination": "/",
       "permanent": false
     },
@@ -103,12 +103,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/saas/",
+      "source": "/categories/saas",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/saas",
+      "source": "/categories/saas/",
       "destination": "/",
       "permanent": true
     },
@@ -123,22 +123,22 @@
       "permanent": true
     },
     {
-      "source": "/categories/automatisation",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/categories/automatisation/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/rss.xml/",
-      "destination": "/feed.xml",
+      "source": "/categories/automatisation",
+      "destination": "/",
       "permanent": true
     },
     {
       "source": "/rss.xml",
+      "destination": "/feed.xml",
+      "permanent": true
+    },
+    {
+      "source": "/rss.xml/",
       "destination": "/feed.xml",
       "permanent": true
     },
@@ -173,17 +173,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/manon-dunand/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/manon-dunand",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/remi-riggaz",
+      "source": "/auteurs/manon-dunand/",
       "destination": "/",
       "permanent": true
     },
@@ -193,7 +188,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui",
+      "source": "/auteurs/remi-riggaz",
       "destination": "/",
       "permanent": true
     },
@@ -203,12 +198,17 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/theo-lulin",
+      "source": "/auteurs/solan-alaoui",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/theo-lulin/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/theo-lulin",
       "destination": "/",
       "permanent": true
     },
@@ -233,12 +233,12 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-index.xml",
+      "source": "/sitemap-index.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
-      "source": "/sitemap-index.xml/",
+      "source": "/sitemap-index.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     },
