@@ -147,6 +147,8 @@ main { padding-top: 40px; padding-bottom: 80px; min-height: 60vh; }
 .foot { border-top: 1px solid var(--ink); font-size: .85rem; color: var(--muted); }
 .foot-inner { display: flex; justify-content: space-between; gap: 16px; padding-top: 24px; padding-bottom: 40px; flex-wrap: wrap; }
 .foot a:hover { color: var(--ink); }
+.foot-links { display: flex; flex-wrap: wrap; gap: 6px 18px; }
+.post.page .post-head { margin-bottom: 20px; }
 
 @media (max-width: 900px) {
   .grid { grid-template-columns: repeat(2, 1fr); }
