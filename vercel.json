@@ -3,17 +3,12 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/articles/combien-coute-incubateur-france",
-      "destination": "/",
-      "permanent": false
-    },
-    {
       "source": "/articles/combien-coute-incubateur-france/",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
+      "source": "/articles/combien-coute-incubateur-france",
       "destination": "/",
       "permanent": false
     },
@@ -23,12 +18,22 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
+      "source": "/articles/existe-t-il-incubateurs-sans-frais-entree/",
       "destination": "/",
       "permanent": false
     },
     {
+      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
+      "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
+      "permanent": true
+    },
+    {
       "source": "/articles/incubateur-accelerateur-startup-studio-difference",
+      "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
+      "permanent": true
+    },
+    {
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/",
       "permanent": false
     },
@@ -38,17 +43,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
+      "source": "/articles/incubateur-choisir-quand-fondateur-technique/",
       "destination": "/",
       "permanent": false
     },
     {
       "source": "/articles/incubateur-choisir-quand-fondateur-technique",
-      "destination": "/",
-      "permanent": false
-    },
-    {
-      "source": "/articles/incubateur-choisir-quand-fondateur-technique/",
       "destination": "/",
       "permanent": false
     },
@@ -63,12 +63,12 @@
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir",
+      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
       "destination": "/",
       "permanent": false
     },
     {
-      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
+      "source": "/articles/incubateur-public-ecole-prive-lequel-choisir",
       "destination": "/",
       "permanent": false
     },
@@ -83,12 +83,12 @@
       "permanent": false
     },
     {
-      "source": "/categories/incubateurs",
+      "source": "/categories/incubateurs/",
       "destination": "/categorie/incubateurs",
       "permanent": true
     },
     {
-      "source": "/categories/incubateurs/",
+      "source": "/categories/incubateurs",
       "destination": "/categorie/incubateurs",
       "permanent": true
     },
@@ -113,12 +113,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/outils",
+      "source": "/categories/outils/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/outils/",
+      "source": "/categories/outils",
       "destination": "/",
       "permanent": true
     },
@@ -163,12 +163,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/julia-bosio/",
+      "source": "/auteurs/julia-bosio",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/julia-bosio",
+      "source": "/auteurs/julia-bosio/",
       "destination": "/",
       "permanent": true
     },
@@ -183,17 +183,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/remi-riggaz/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/remi-riggaz",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui/",
+      "source": "/auteurs/remi-riggaz/",
       "destination": "/",
       "permanent": true
     },
@@ -203,7 +198,7 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/theo-lulin/",
+      "source": "/auteurs/solan-alaoui/",
       "destination": "/",
       "permanent": true
     },
@@ -213,12 +208,17 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee/",
+      "source": "/auteurs/theo-lulin/",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/yan-thesee",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/yan-thesee/",
       "destination": "/",
       "permanent": true
     },
@@ -233,22 +233,22 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-index.xml",
-      "destination": "/sitemap.xml",
-      "permanent": true
-    },
-    {
       "source": "/sitemap-index.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml",
+      "source": "/sitemap-index.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
       "source": "/sitemap-0.xml/",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap-0.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     }

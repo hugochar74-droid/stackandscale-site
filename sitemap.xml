@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://stackandscale.fr/</loc><lastmod>2026-11-12T12:51:00+01:00</lastmod></url>
+<url><loc>https://stackandscale.fr/</loc><lastmod>2026-11-13T08:00:00+01:00</lastmod></url>
 <url><loc>https://stackandscale.fr/categorie/entrepreneuriat</loc></url>
+<url><loc>https://stackandscale.fr/categorie/incubateurs</loc></url>
 <url><loc>https://stackandscale.fr/auteur/solan-bourama</loc></url>
 <url><loc>https://stackandscale.fr/auteur/ethan-bouard</loc></url>
 <url><loc>https://stackandscale.fr/auteur/leo-cavallero</loc></url>
+<url><loc>https://stackandscale.fr/auteur/lena-vallin</loc></url>
 <url><loc>https://stackandscale.fr/a-propos</loc></url>
 <url><loc>https://stackandscale.fr/publier-chez-nous</loc></url>
 <url><loc>https://stackandscale.fr/mentions-legales</loc></url>
 <url><loc>https://stackandscale.fr/confidentialite</loc></url>
+<url><loc>https://stackandscale.fr/article/incubateur-accelerateur-startup-studio-quelle-difference</loc><lastmod>2026-11-13T08:00:00+01:00</lastmod><news:news><news:publication><news:name>Stack&amp;Scale</news:name><news:language>fr</news:language></news:publication><news:publication_date>2026-11-13T08:00:00+01:00</news:publication_date><news:title>Incubateur, accélérateur, startup studio : quelle différence ?</news:title></news:news><image:image><image:loc>https://stackandscale.fr/uploads/20261112-00ef0d61ee.jpg</image:loc></image:image></url>
 <url><loc>https://stackandscale.fr/article/fondateur-technique-faut-il-chercher-un-associe-commercial</loc><lastmod>2026-11-12T15:17:00+01:00</lastmod><news:news><news:publication><news:name>Stack&amp;Scale</news:name><news:language>fr</news:language></news:publication><news:publication_date>2026-11-12T12:51:00+01:00</news:publication_date><news:title>Fondateur technique : faut-il chercher un associé commercial ?</news:title></news:news><image:image><image:loc>https://stackandscale.fr/uploads/20261112-a10752464c.jpg</image:loc></image:image></url>
 <url><loc>https://stackandscale.fr/article/comment-un-developpeur-peut-il-apprendre-a-vendre</loc><lastmod>2026-11-12T15:13:00+01:00</lastmod><news:news><news:publication><news:name>Stack&amp;Scale</news:name><news:language>fr</news:language></news:publication><news:publication_date>2026-11-12T12:50:00+01:00</news:publication_date><news:title>Comment un développeur peut-il apprendre à vendre ?</news:title></news:news><image:image><image:loc>https://stackandscale.fr/uploads/20261112-782017832d.jpg</image:loc></image:image></url>
 <url><loc>https://stackandscale.fr/article/j-ai-developpe-mon-produit-mais-je-n-ai-aucun-client-que-faire</loc><lastmod>2026-11-12T15:08:00+01:00</lastmod><news:news><news:publication><news:name>Stack&amp;Scale</news:name><news:language>fr</news:language></news:publication><news:publication_date>2026-11-12T12:49:00+01:00</news:publication_date><news:title>J’ai développé mon produit mais je n’ai aucun client : que faire ?</news:title></news:news><image:image><image:loc>https://stackandscale.fr/uploads/20261112-d916ff2066.jpg</image:loc></image:image></url>
