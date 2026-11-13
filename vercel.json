@@ -4,13 +4,13 @@
   "redirects": [
     {
       "source": "/articles/combien-coute-incubateur-france/",
-      "destination": "/",
-      "permanent": false
+      "destination": "/article/combien-coute-un-incubateur-en-france",
+      "permanent": true
     },
     {
       "source": "/articles/combien-coute-incubateur-france",
-      "destination": "/",
-      "permanent": false
+      "destination": "/article/combien-coute-un-incubateur-en-france",
+      "permanent": true
     },
     {
       "source": "/articles/existe-t-il-incubateurs-sans-frais-entree",
