@@ -34,13 +34,13 @@
     },
     {
       "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
-      "destination": "/",
-      "permanent": false
+      "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
+      "permanent": true
     },
     {
       "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
-      "destination": "/",
-      "permanent": false
+      "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
+      "permanent": true
     },
     {
       "source": "/articles/incubateur-choisir-quand-fondateur-technique/",
