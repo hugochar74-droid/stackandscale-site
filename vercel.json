@@ -3,12 +3,12 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/articles/combien-coute-incubateur-france/",
+      "source": "/articles/combien-coute-incubateur-france",
       "destination": "/article/combien-coute-un-incubateur-en-france",
       "permanent": true
     },
     {
-      "source": "/articles/combien-coute-incubateur-france",
+      "source": "/articles/combien-coute-incubateur-france/",
       "destination": "/article/combien-coute-un-incubateur-en-france",
       "permanent": true
     },
@@ -33,12 +33,12 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
       "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
       "permanent": true
     },
@@ -64,21 +64,21 @@
     },
     {
       "source": "/articles/incubateur-public-ecole-prive-lequel-choisir",
-      "destination": "/",
-      "permanent": false
+      "destination": "/article/incubateur-public-d-ecole-ou-prive-lequel-choisir",
+      "permanent": true
     },
     {
       "source": "/articles/incubateur-public-ecole-prive-lequel-choisir/",
-      "destination": "/",
-      "permanent": false
-    },
-    {
-      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
-      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
+      "destination": "/article/incubateur-public-d-ecole-ou-prive-lequel-choisir",
       "permanent": true
     },
     {
       "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
+      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
+      "permanent": true
+    },
+    {
+      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
       "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
@@ -93,22 +93,22 @@
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat/",
-      "destination": "/categorie/entrepreneuriat",
-      "permanent": true
-    },
-    {
       "source": "/categories/entrepreneuriat",
       "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
     {
-      "source": "/categories/saas",
-      "destination": "/",
+      "source": "/categories/entrepreneuriat/",
+      "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
     {
       "source": "/categories/saas/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/categories/saas",
       "destination": "/",
       "permanent": true
     },
@@ -123,18 +123,13 @@
       "permanent": true
     },
     {
-      "source": "/categories/automatisation/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/categories/automatisation",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/rss.xml",
-      "destination": "/feed.xml",
+      "source": "/categories/automatisation/",
+      "destination": "/",
       "permanent": true
     },
     {
@@ -143,12 +138,17 @@
       "permanent": true
     },
     {
-      "source": "/auteurs",
-      "destination": "/",
+      "source": "/rss.xml",
+      "destination": "/feed.xml",
       "permanent": true
     },
     {
       "source": "/auteurs/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs",
       "destination": "/",
       "permanent": true
     },
@@ -183,12 +183,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/remi-riggaz/",
+      "source": "/auteurs/remi-riggaz",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/remi-riggaz",
+      "source": "/auteurs/remi-riggaz/",
       "destination": "/",
       "permanent": true
     },
@@ -203,22 +203,22 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/theo-lulin/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/theo-lulin",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee",
+      "source": "/auteurs/theo-lulin/",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/yan-thesee/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/yan-thesee",
       "destination": "/",
       "permanent": true
     },
@@ -243,12 +243,12 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml/",
+      "source": "/sitemap-0.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml",
+      "source": "/sitemap-0.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     }
