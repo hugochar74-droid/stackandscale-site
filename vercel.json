@@ -43,22 +43,22 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-choisir-quand-fondateur-technique",
-      "destination": "/article/quel-incubateur-choisir-quand-on-est-fondateur-technique",
-      "permanent": true
-    },
-    {
       "source": "/articles/incubateur-choisir-quand-fondateur-technique/",
       "destination": "/article/quel-incubateur-choisir-quand-on-est-fondateur-technique",
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
-      "destination": "/article/incubateur-en-equity-ou-au-pourcentage-du-chiffre-d-affaires-que-choisir",
+      "source": "/articles/incubateur-choisir-quand-fondateur-technique",
+      "destination": "/article/quel-incubateur-choisir-quand-on-est-fondateur-technique",
       "permanent": true
     },
     {
       "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
+      "destination": "/article/incubateur-en-equity-ou-au-pourcentage-du-chiffre-d-affaires-que-choisir",
+      "permanent": true
+    },
+    {
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
       "destination": "/article/incubateur-en-equity-ou-au-pourcentage-du-chiffre-d-affaires-que-choisir",
       "permanent": true
     },
@@ -73,18 +73,13 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
-      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
-      "permanent": true
-    },
-    {
       "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
       "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
     {
-      "source": "/categories/incubateurs/",
-      "destination": "/categorie/incubateurs",
+      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
+      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
     {
@@ -93,12 +88,17 @@
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat/",
-      "destination": "/categorie/entrepreneuriat",
+      "source": "/categories/incubateurs/",
+      "destination": "/categorie/incubateurs",
       "permanent": true
     },
     {
       "source": "/categories/entrepreneuriat",
+      "destination": "/categorie/entrepreneuriat",
+      "permanent": true
+    },
+    {
+      "source": "/categories/entrepreneuriat/",
       "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
@@ -113,12 +113,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/outils/",
+      "source": "/categories/outils",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/outils",
+      "source": "/categories/outils/",
       "destination": "/",
       "permanent": true
     },
@@ -143,12 +143,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs",
+      "source": "/auteurs/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/",
+      "source": "/auteurs",
       "destination": "/",
       "permanent": true
     },
@@ -163,12 +163,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/julia-bosio",
+      "source": "/auteurs/julia-bosio/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/julia-bosio/",
+      "source": "/auteurs/julia-bosio",
       "destination": "/",
       "permanent": true
     },
@@ -193,12 +193,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui",
+      "source": "/auteurs/solan-alaoui/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui/",
+      "source": "/auteurs/solan-alaoui",
       "destination": "/",
       "permanent": true
     },
@@ -213,17 +213,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/yan-thesee",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/yanis-bouram/",
+      "source": "/auteurs/yan-thesee/",
       "destination": "/",
       "permanent": true
     },
@@ -233,12 +228,17 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-index.xml/",
-      "destination": "/sitemap.xml",
+      "source": "/auteurs/yanis-bouram/",
+      "destination": "/",
       "permanent": true
     },
     {
       "source": "/sitemap-index.xml",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap-index.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     },
