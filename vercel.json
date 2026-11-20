@@ -3,12 +3,12 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/articles/combien-coute-incubateur-france",
+      "source": "/articles/combien-coute-incubateur-france/",
       "destination": "/article/combien-coute-un-incubateur-en-france",
       "permanent": true
     },
     {
-      "source": "/articles/combien-coute-incubateur-france/",
+      "source": "/articles/combien-coute-incubateur-france",
       "destination": "/article/combien-coute-un-incubateur-en-france",
       "permanent": true
     },
@@ -23,22 +23,22 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-accelerateur-startup-studio-difference",
-      "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
-      "permanent": true
-    },
-    {
       "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
       "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
-      "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
+      "source": "/articles/incubateur-accelerateur-startup-studio-difference",
+      "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
       "permanent": true
     },
     {
       "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
+      "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
+      "permanent": true
+    },
+    {
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
       "permanent": true
     },
@@ -53,12 +53,12 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
       "destination": "/article/incubateur-en-equity-ou-au-pourcentage-du-chiffre-d-affaires-que-choisir",
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir/",
+      "source": "/articles/incubateur-equity-pourcentage-chiffre-affaires-choisir",
       "destination": "/article/incubateur-en-equity-ou-au-pourcentage-du-chiffre-d-affaires-que-choisir",
       "permanent": true
     },
@@ -73,18 +73,13 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
-      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
-      "permanent": true
-    },
-    {
       "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
       "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
     {
-      "source": "/categories/incubateurs",
-      "destination": "/categorie/incubateurs",
+      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
+      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
     {
@@ -93,8 +88,8 @@
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat",
-      "destination": "/categorie/entrepreneuriat",
+      "source": "/categories/incubateurs",
+      "destination": "/categorie/incubateurs",
       "permanent": true
     },
     {
@@ -103,8 +98,8 @@
       "permanent": true
     },
     {
-      "source": "/categories/saas/",
-      "destination": "/",
+      "source": "/categories/entrepreneuriat",
+      "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
     {
@@ -113,7 +108,7 @@
       "permanent": true
     },
     {
-      "source": "/categories/outils",
+      "source": "/categories/saas/",
       "destination": "/",
       "permanent": true
     },
@@ -123,7 +118,7 @@
       "permanent": true
     },
     {
-      "source": "/categories/automatisation",
+      "source": "/categories/outils",
       "destination": "/",
       "permanent": true
     },
@@ -133,12 +128,17 @@
       "permanent": true
     },
     {
-      "source": "/rss.xml/",
-      "destination": "/feed.xml",
+      "source": "/categories/automatisation",
+      "destination": "/",
       "permanent": true
     },
     {
       "source": "/rss.xml",
+      "destination": "/feed.xml",
+      "permanent": true
+    },
+    {
+      "source": "/rss.xml/",
       "destination": "/feed.xml",
       "permanent": true
     },
@@ -153,22 +153,22 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/heloise-monet/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/julia-bosio/",
+      "source": "/auteurs/heloise-monet",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/julia-bosio",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/julia-bosio/",
       "destination": "/",
       "permanent": true
     },
@@ -233,22 +233,22 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-index.xml",
-      "destination": "/sitemap.xml",
-      "permanent": true
-    },
-    {
       "source": "/sitemap-index.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml",
+      "source": "/sitemap-index.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
       "source": "/sitemap-0.xml/",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap-0.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     }
