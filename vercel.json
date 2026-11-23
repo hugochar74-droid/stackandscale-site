@@ -3,12 +3,12 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/articles/combien-coute-incubateur-france/",
+      "source": "/articles/combien-coute-incubateur-france",
       "destination": "/article/combien-coute-un-incubateur-en-france",
       "permanent": true
     },
     {
-      "source": "/articles/combien-coute-incubateur-france",
+      "source": "/articles/combien-coute-incubateur-france/",
       "destination": "/article/combien-coute-un-incubateur-en-france",
       "permanent": true
     },
@@ -23,22 +23,22 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
-      "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
-      "permanent": true
-    },
-    {
       "source": "/articles/incubateur-accelerateur-startup-studio-difference",
       "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
-      "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
+      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
+      "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
       "permanent": true
     },
     {
       "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients",
+      "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
+      "permanent": true
+    },
+    {
+      "source": "/articles/incubateur-aide-t-il-vraiment-trouver-clients/",
       "destination": "/article/un-incubateur-aide-t-il-vraiment-a-trouver-des-clients",
       "permanent": true
     },
@@ -73,12 +73,12 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
+      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
       "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
+      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
       "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
@@ -93,12 +93,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat/",
+      "source": "/categories/entrepreneuriat",
       "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
     {
-      "source": "/categories/entrepreneuriat",
+      "source": "/categories/entrepreneuriat/",
       "destination": "/categorie/entrepreneuriat",
       "permanent": true
     },
@@ -123,12 +123,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/automatisation/",
+      "source": "/categories/automatisation",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/automatisation",
+      "source": "/categories/automatisation/",
       "destination": "/",
       "permanent": true
     },
@@ -143,22 +143,22 @@
       "permanent": true
     },
     {
-      "source": "/auteurs",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/heloise-monet/",
+      "source": "/auteurs",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/heloise-monet",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/heloise-monet/",
       "destination": "/",
       "permanent": true
     },
@@ -173,12 +173,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/manon-dunand/",
+      "source": "/auteurs/manon-dunand",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/manon-dunand",
+      "source": "/auteurs/manon-dunand/",
       "destination": "/",
       "permanent": true
     },
@@ -193,12 +193,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui",
+      "source": "/auteurs/solan-alaoui/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui/",
+      "source": "/auteurs/solan-alaoui",
       "destination": "/",
       "permanent": true
     },
@@ -213,12 +213,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee/",
+      "source": "/auteurs/yan-thesee",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee",
+      "source": "/auteurs/yan-thesee/",
       "destination": "/",
       "permanent": true
     },
@@ -233,22 +233,22 @@
       "permanent": true
     },
     {
-      "source": "/sitemap-index.xml",
-      "destination": "/sitemap.xml",
-      "permanent": true
-    },
-    {
       "source": "/sitemap-index.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
-      "source": "/sitemap-0.xml/",
+      "source": "/sitemap-index.xml",
       "destination": "/sitemap.xml",
       "permanent": true
     },
     {
       "source": "/sitemap-0.xml",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap-0.xml/",
       "destination": "/sitemap.xml",
       "permanent": true
     }
