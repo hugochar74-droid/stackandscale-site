@@ -23,12 +23,12 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
+      "source": "/articles/incubateur-accelerateur-startup-studio-difference",
       "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-accelerateur-startup-studio-difference",
+      "source": "/articles/incubateur-accelerateur-startup-studio-difference/",
       "destination": "/article/incubateur-accelerateur-startup-studio-quelle-difference",
       "permanent": true
     },
@@ -73,22 +73,22 @@
       "permanent": true
     },
     {
-      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
-      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
-      "permanent": true
-    },
-    {
       "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche",
       "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
     {
-      "source": "/categories/incubateurs/",
-      "destination": "/categorie/incubateurs",
+      "source": "/articles/incubateur-remunere-pourcentage-chiffre-affaires-ca-marche/",
+      "destination": "/article/incubateur-remunere-au-pourcentage-du-chiffre-d-affaires-comment-ca-marche",
       "permanent": true
     },
     {
       "source": "/categories/incubateurs",
+      "destination": "/categorie/incubateurs",
+      "permanent": true
+    },
+    {
+      "source": "/categories/incubateurs/",
       "destination": "/categorie/incubateurs",
       "permanent": true
     },
@@ -113,12 +113,12 @@
       "permanent": true
     },
     {
-      "source": "/categories/outils",
+      "source": "/categories/outils/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/categories/outils/",
+      "source": "/categories/outils",
       "destination": "/",
       "permanent": true
     },
@@ -143,12 +143,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs",
+      "source": "/auteurs/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/",
+      "source": "/auteurs",
       "destination": "/",
       "permanent": true
     },
@@ -193,12 +193,12 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui",
+      "source": "/auteurs/solan-alaoui/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/solan-alaoui/",
+      "source": "/auteurs/solan-alaoui",
       "destination": "/",
       "permanent": true
     },
@@ -213,22 +213,22 @@
       "permanent": true
     },
     {
-      "source": "/auteurs/yan-thesee/",
-      "destination": "/",
-      "permanent": true
-    },
-    {
       "source": "/auteurs/yan-thesee",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/auteurs/yanis-bouram/",
+      "source": "/auteurs/yan-thesee/",
       "destination": "/",
       "permanent": true
     },
     {
       "source": "/auteurs/yanis-bouram",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/auteurs/yanis-bouram/",
       "destination": "/",
       "permanent": true
     },
